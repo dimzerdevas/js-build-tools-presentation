@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "esbuild main.js --bundle --outfile=build.js"
+  },
+  "devDependencies": {
+    "esbuild": "0.21.5"
+  }
+}
