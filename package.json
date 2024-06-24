@@ -1,0 +1,12 @@
+{
+  "name": "js-build-tools-presentation",
+  "version": "1.0.0",
+  "description": "Part of an Agile Actors presentation about JavaScript Build Tools",
+  "main": "index.js",
+  "scripts": {
+    "build": "rsbuild build"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^0.7.9"
+  }
+}
